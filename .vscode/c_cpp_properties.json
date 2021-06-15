@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "gnu17", //it is initialy gnu18 i change t so if you have problem replace it with gnu18
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
